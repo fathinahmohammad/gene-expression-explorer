@@ -1,7 +1,5 @@
-# gene-expression-explorer
-Exploring public microarray gene expression data using Python.
-
 # Gene Expression Explorer
+Exploring public microarray gene expression data using Python.
 
 🚧 Work in progress — a learning project.
 
